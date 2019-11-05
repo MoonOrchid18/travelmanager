@@ -6,7 +6,9 @@
     android:minHeight="25px"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/linearLayout">
+    android:id="@+id/linearLayout"
+    android:background="#FFFFFF"
+    >
     <EditText
         android:inputType="textEmailAddress"
         android:layout_width="match_parent"
@@ -26,17 +28,24 @@
         android:layout_height="wrap_content"
         android:id="@+id/relativeLayout">
 
+
         <Button
             android:text="Ввійти"
-            android:layout_alignParentRight="true"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/enter" />
-        <Button
-            android:text="Реєстрація"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/signUp"
-            android:layout_toLeftOf="@id/enter" />
+            android:id="@+id/enter"
+            android:background="#FFFFFF"
+            android:textColor="#7B2AB9"
+            android:layout_below="@id/enter"
+            android:layout_marginLeft="0.0dp" 
+         />
+
     </RelativeLayout>
+    <Button
+        android:text="Реєстрація"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/signUp"
+        android:background="#6E21A9"
+        android:textColor="#FFFFFF"/>
 </LinearLayout>

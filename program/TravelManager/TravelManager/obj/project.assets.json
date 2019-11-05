@@ -5457,24 +5457,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vlaad\\.nuget\\packages\\": {},
+    "C:\\Users\\Ivan Bilaniuk\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\travel manager true true\\travelmanager\\program\\TravelManager\\TravelManager\\TravelManager.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan Bilaniuk\\Desktop\\Travel\\program\\TravelManager\\TravelManager\\TravelManager.csproj",
       "projectName": "TravelManager",
-      "projectPath": "D:\\travel manager true true\\travelmanager\\program\\TravelManager\\TravelManager\\TravelManager.csproj",
-      "packagesPath": "C:\\Users\\vlaad\\.nuget\\packages\\",
-      "outputPath": "D:\\travel manager true true\\travelmanager\\program\\TravelManager\\TravelManager\\obj\\",
+      "projectPath": "C:\\Users\\Ivan Bilaniuk\\Desktop\\Travel\\program\\TravelManager\\TravelManager\\TravelManager.csproj",
+      "packagesPath": "C:\\Users\\Ivan Bilaniuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ivan Bilaniuk\\Desktop\\Travel\\program\\TravelManager\\TravelManager\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\vlaad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ivan Bilaniuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

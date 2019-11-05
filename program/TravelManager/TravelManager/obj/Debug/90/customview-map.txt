@@ -3,18 +3,38 @@ adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 Button;obj\Debug\90\res\layout\activity_main.xml
-cache-path;D:\travel manager true true\travelmanager\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+Button;obj\Debug\90\res\layout\registrati_on.xml
+Button;obj\Debug\90\res\layout\registration.xml
+Button;obj\Debug\90\res\layout\testing.xml
+Button;obj\Debug\90\res\mipmap-anydpi-v26\activity_main.xml
+Button;obj\Debug\90\res\mipmap-anydpi-v26\registration.xml
+cache-path;C:\Users\Ivan Bilaniuk\Desktop\Travel\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
 color;obj\Debug\90\res\values\ic_launcher_background.xml
 EditText;obj\Debug\90\res\layout\activity_main.xml
-external-cache-path;D:\travel manager true true\travelmanager\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;D:\travel manager true true\travelmanager\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+EditText;obj\Debug\90\res\layout\registrati_on.xml
+EditText;obj\Debug\90\res\layout\registration.xml
+EditText;obj\Debug\90\res\layout\testing.xml
+EditText;obj\Debug\90\res\mipmap-anydpi-v26\activity_main.xml
+EditText;obj\Debug\90\res\mipmap-anydpi-v26\registration.xml
+external-cache-path;C:\Users\Ivan Bilaniuk\Desktop\Travel\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Ivan Bilaniuk\Desktop\Travel\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 item;obj\Debug\90\res\values\styles.xml
 LinearLayout;obj\Debug\90\res\layout\activity_main.xml
-paths;D:\travel manager true true\travelmanager\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+LinearLayout;obj\Debug\90\res\layout\registrati_on.xml
+LinearLayout;obj\Debug\90\res\layout\registration.xml
+LinearLayout;obj\Debug\90\res\layout\testing.xml
+LinearLayout;obj\Debug\90\res\mipmap-anydpi-v26\activity_main.xml
+LinearLayout;obj\Debug\90\res\mipmap-anydpi-v26\registration.xml
+paths;C:\Users\Ivan Bilaniuk\Desktop\Travel\program\TravelManager\TravelManager\obj\Debug\90\lp\43\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj\Debug\90\res\layout\activity_main.xml
+RelativeLayout;obj\Debug\90\res\layout\registrati_on.xml
+RelativeLayout;obj\Debug\90\res\layout\registration.xml
+RelativeLayout;obj\Debug\90\res\layout\testing.xml
+RelativeLayout;obj\Debug\90\res\mipmap-anydpi-v26\activity_main.xml
+RelativeLayout;obj\Debug\90\res\mipmap-anydpi-v26\registration.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\ic_launcher_background.xml
 resources;obj\Debug\90\res\values\strings.xml
